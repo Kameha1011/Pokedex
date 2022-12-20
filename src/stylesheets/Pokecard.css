@@ -1,0 +1,22 @@
+.Pokecard {
+    width: 10rem;
+    height: auto;
+    margin: 1rem 1rem;
+    padding: 1rem;
+    border-radius: .7rem;
+    text-align: center;
+
+}
+.Pokecard-img{
+    height: 150px;
+    width: 150px;
+}
+.Pokecard-type-Grass{
+    color: greenyellow ;
+}
+.Pokecard-type-Fire{
+    color: firebrick;
+}
+.Pokecard-type-Water{
+    color: blue;
+}
