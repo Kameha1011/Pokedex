@@ -62,3 +62,11 @@
 .Pokecard-type-Ice{
     color: rgb(171, 171, 247);
 }
+
+@media(max-width: 320px) {
+    .Pokecard-img {
+        height: 95px;
+        width: 95px;
+    }
+    
+}

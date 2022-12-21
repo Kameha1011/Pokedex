@@ -19,3 +19,29 @@
     flex-wrap: wrap;
    padding: 0 5.5rem;
 }
+@media(max-width: 1024px){
+    .Pokecard-container {
+        padding: 0 0.5rem;
+    }
+}
+@media(max-width: 768px){
+    .Pokecard-container {
+        padding: 0;
+    }
+}
+@media(max-width: 425px){
+    .Pokecard-container {
+        padding: 0 4.5rem;
+    }
+}
+@media(max-width: 375px){
+    .Pokecard-container {
+        padding: 0 3rem;
+    }
+}
+@media(max-width: 320px){
+    .Pokecard-container {
+        padding: 0 2rem;
+    }
+}
+
