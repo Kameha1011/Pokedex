@@ -20,3 +20,45 @@
 .Pokecard-type-Water{
     color: blue;
 }
+.Pokecard-type-Normal{
+    color: gray;
+}
+.Pokecard-type-Bug{
+    color:  olive;
+}
+.Pokecard-type-Electric{
+    color: yellow;
+}
+.Pokecard-type-Rock{
+    color:rgb(73, 40, 40);
+}
+.Pokecard-type-Ghost{
+    color: rgb(75, 28, 75);
+}
+.Pokecard-type-Dark{
+    color: black;
+}
+.Pokecard-type-Poison{
+    color: purple;
+}
+.Pokecard-type-Psychic{
+    color: palevioletred;
+}
+.Pokecard-type-Steel{
+    color: rgb(65, 57, 57);
+}
+.Pokecard-type-Dragon{
+    color: darkslateblue;
+}
+.Pokecard-type-Fighting{
+    color: brown;
+}
+.Pokecard-type-Ground{
+    color: burlywood;
+}
+.Pokecard-type-Fairy{
+    color: violet;
+}
+.Pokecard-type-Ice{
+    color: rgb(171, 171, 247);
+}
